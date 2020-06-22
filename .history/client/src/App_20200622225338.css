@@ -428,8 +428,7 @@ table th {
   /* Navbar */
   .frag {
     display: block;
-    text-align: right;
-    text-decoration: white;
+    text-align: center;
   }
 
   .frag h1 {
@@ -437,11 +436,7 @@ table th {
   }
 
   .frag ul {
-    float: right;
-    justify-content: right;
-  }
-
-  li {
-    display: inline-flex;
+    text-align: center;
+    justify-content: center;
   }
 }

@@ -429,6 +429,7 @@ table th {
   .frag {
     display: block;
     text-align: right;
+    display: inline-flex;
     text-decoration: white;
   }
 
@@ -437,8 +438,8 @@ table th {
   }
 
   .frag ul {
-    float: right;
-    justify-content: right;
+    text-align: center;
+    justify-content: center;
   }
 
   li {

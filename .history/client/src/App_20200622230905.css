@@ -438,7 +438,7 @@ table th {
 
   .frag ul {
     float: right;
-    justify-content: right;
+    justify-content: center;
   }
 
   li {
